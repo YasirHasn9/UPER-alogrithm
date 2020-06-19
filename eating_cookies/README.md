@@ -15,7 +15,8 @@ Can you implement a solution that runs fast enough to pass the large input test?
 
 ## Testing
 
-For this problem, there's a test that tests your implementation with small inputs (n <= 10). There's also a separate test that tests your implementation with large inputs (n >= 50). 
+For this problem, there's a test that tests your implementation with small inputs (n <= 10). 
+There's also a separate test that tests your implementation with large inputs (n >= 50). 
 
 You'll find that without implementing performance optimizations into your solution, your solution will likely hang on the large input test. 
 
